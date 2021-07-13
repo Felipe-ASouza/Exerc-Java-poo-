@@ -1,0 +1,16 @@
+Escreva uma classe em Java para as seguintes especificações:
+
+	-nome da classe: Lampada
+	-Atributos:
+		-estado: boolean
+	-Métodos
+		-ligar()
+			-alterar atributo estado para true
+		-desligar()
+			-alterar atributo estado para false
+		-mostrarEstado()
+			se o estado = true
+			Entao, mostrar a mensagem "Ligada"
+			Senão, mostrar a mensagem "Desligada"
+
+	Escreva uma classe teste que realizará a chamada de todos os métodos, permitindo a verificação do funcionamento dos mesmos.
