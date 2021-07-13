@@ -1,0 +1,15 @@
+Escreva uma classe em Java com as seguintes especificações:
+	-Nome da classe: Carro
+	-Atributos:
+		-velocidade: double
+
+	-Métodos
+		-acelerar()
+			-aumentar velocidade em 10
+		-freiar()
+			-diminuir velocidade em 10
+		-mostrarVelocidade()
+			-mostra o valor da velocidade
+
+	Escreva uma classe teste que realizará a chama de todos os métodos, permitindo a verificação do funcionamento dos mesmos.
+		
