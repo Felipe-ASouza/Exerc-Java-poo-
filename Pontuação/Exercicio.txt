@@ -1,0 +1,14 @@
+Escreva uma classe em Java com as seguintes espeficicações:
+	-Nome da classe: Pontuacao
+	-Atributos:
+		-pontosGanhos: int
+	
+	-Métodos:
+		-ganharPartida()
+			-aumentar pontosGanhos em 3
+		-empatarPartida()
+			-aumentar pontosGanhos em 3
+		-perderPartida()
+			-aumentar pontosGanhos em 0
+
+	Escreva uma classe Teste que realizará a chamada de todos os métodos, permitindo a verificação do funcionamento dos mesmos.
