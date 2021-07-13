@@ -1,0 +1,17 @@
+Escreva uma classe em Java para as seguintes especificações:
+	-Nome da classe: Pessoa
+	-Atributos:
+		-RG: String
+		-CPF : String
+		-Nome: String
+		-Endereço: String
+		-Celular: String
+		-email: String
+		-altura: double
+		-peso: double
+		-sexo: char
+		-idade: int
+	-Métodos:
+		-Criar um método construtor que receba todas as informações (atributos) para a classe
+
+	-Escreva uma classe em Java chamada TestePessoa, que contenha um método "main", e instancie 3 objetos diferentes do "tipo" Pessoa.
