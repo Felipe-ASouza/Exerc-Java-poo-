@@ -1,0 +1,13 @@
+Escreva uma classe em Java para as seguintes especificações:
+-Nome da classe: Aluno
+-Atributos
+	RA: String
+	nome: String
+	curso: String
+
+	-Escreva um método construtor em Java para a classe Aluno que receba como parâmetros:
+	-RA, nome e curso
+	-Os atributos devem receber os valores dos parâmetros
+
+	-Escreva uma classe em Java chamada TesteAluno, que contenha um método "main", e instancie 3 objetos diferentes do "tipo" Aluno.
+	
