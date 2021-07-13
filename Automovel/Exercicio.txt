@@ -1,0 +1,20 @@
+Escreva uma classe em Java para as seguintes especificações:
+ 	-Nome da classe: Automovel
+	-Atributos
+		-placa: String
+		-Cor : String
+		-nr portas: int
+		-combustivel: String
+		-quilometragem: long
+		-renavam: String
+		-chassi: String
+		-nr marchas: int
+		-ligado: boolean
+		-velocidade: int
+
+	-Métodos:
+		-Criar um método construtor que receba todas as informações (atributos) para a classe 
+		-ligarDesligar (boolean ligaDesliga)
+			-Ligar ligado = true
+			-desligar ligado = false
+	Escrever uma classe teste que realizará a chamada de todos os métodos, permitindo a verificação do funcionamento dos mesmos.
